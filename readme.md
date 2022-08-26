@@ -1,3 +1,3 @@
-<img src="./images/ligada.png" alt="lampada">
+<img src="ligada.png" alt="lampada">
 
-<img src="./images/apagada.png" alt="lampada">
+<img src="apagada.png" alt="lampada">
